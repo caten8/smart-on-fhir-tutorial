@@ -17,7 +17,9 @@ html {
  * Remove default margin.
  */
 body {
-  margin: 0; }
+  margin: 10px;
+  background-color: yellow;
+}
 
 /* HTML5 display definitions
    ========================================================================== */
